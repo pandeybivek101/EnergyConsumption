@@ -5,7 +5,7 @@
 # COMMAND ----------
 
 # MAGIC %md
-# MAGIC ###The task involve the database configuration, reading the properties json file and loading it the the database.
+# MAGIC ###The task involve the database configuration, reading the properties json file and loading it to the database.
 
 # COMMAND ----------
 
